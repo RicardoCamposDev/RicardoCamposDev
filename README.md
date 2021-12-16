@@ -2,7 +2,7 @@ Hi,
 
 My name is Ricardo Campos and I am from Portugal (V.N.Famalicão).
 
-I'm a Electronics and Computer Engineer (Master's Degree) that has been working as Freelancer Software Developer in last years.
+I'm a Electronics and Computer Engineer (Master's Degree) that has been working as Freelancer Software Developer.
 
 My main skills and professional experience are related with Software Development. I developed software for Robots, businesses and
 recently I'm working on Web Development also.
